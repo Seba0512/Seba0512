@@ -36,8 +36,6 @@ Aplicación académica para administrar equipos, partidos y resultados del Mundi
 
 Proyecto académico de modelado de datos relacionales y documentales, procedimientos, triggers y controles de integridad.
 
-> Los proyectos fueron realizados en el contexto académico de Universidad ORT Uruguay. Parte del código se mantiene en repositorios privados.
-
 ## Contacto
 
 - **Ubicación:** Montevideo, Uruguay
